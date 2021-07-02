@@ -1,7 +1,11 @@
 
-# Python program to find current
-# weather details of any city
-# using openweathermap api
+"""
+feel free to contact
+ * sreeramaj53@gmail.com
+ * www.youtube.com/ZenoModiff
+ * last updated - time 02:07pm - date 16 may 2021
+ * Github Link :-- https://github.com/Zenomodiff/Openweather-Map-Weather-Data-With-Python
+"""
  
 # import required modules
 import requests, json
